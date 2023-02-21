@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "TestIO",
+      "setup": "",
+      "run": "make test",
+      "input": "",
+      "output": "2",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
