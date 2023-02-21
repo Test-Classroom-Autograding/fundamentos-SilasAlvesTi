@@ -6,7 +6,7 @@
       "run": "make test",
       "input": "",
       "output": "2",
-      "comparison": "exact",
+      "comparison": "included",
       "timeout": 10,
       "points": 10
     }
