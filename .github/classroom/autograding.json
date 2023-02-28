@@ -3,7 +3,7 @@
     {
       "name": "TestIO",
       "setup": "make clean a.out",
-      "run": "make test",
+      "run": "make -s test",
       "input": "",
       "output": "Hello, World!",
       "comparison": "included",
