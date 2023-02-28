@@ -2,10 +2,10 @@
   "tests": [
     {
       "name": "TestIO",
-      "setup": "",
+      "setup": "make clean a.out",
       "run": "make test",
       "input": "",
-      "output": "2",
+      "output": "Hello, World!",
       "comparison": "included",
       "timeout": 10,
       "points": 10
